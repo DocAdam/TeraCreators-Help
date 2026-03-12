@@ -24,12 +24,22 @@ The most repeated money advice is to use the AFK zone or build a killstreak and 
 - Main farming route: **2 / 13 → 25 or 29**
 - Alternate method: AFK zone
 
+### Room 2 Farming Example
+
+This clip shows an example of Room 2 being used as part of a killstreak farming route.
+
+<video controls width="100%">
+  <source src="/video/havoc-hotel-3/farming/farming-room-2.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Video credit: Gemini648680 (`gemini648680` on Discord)*
+
 ### Notes
 
 - This is community strategy guidance
 - Farming routes depend on whether you can consistently survive to the later rooms
-
-[Example image: map or room path graphic highlighting rooms 2, 13, 25, and 29, with arrows showing the recommended farming route.]
+- Room 2 is commonly used to build an early killstreak before moving deeper into the route
 
 ---
 
