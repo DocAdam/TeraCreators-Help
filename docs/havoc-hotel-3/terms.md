@@ -1,6 +1,6 @@
 ---
 title: Terms
-sidebar_position: 6
+sidebar_position: 7
 description: Definitions for common Havoc Hotel 3 terms and community shorthand.
 ---
 

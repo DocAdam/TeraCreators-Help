@@ -10,6 +10,7 @@ module.exports = {
         'havoc-hotel-3/tasks',
         'havoc-hotel-3/faq',
         'havoc-hotel-3/references',
+        'havoc-hotel-3/rescues',
         'havoc-hotel-3/terms',
       ],
     },
