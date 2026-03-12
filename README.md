@@ -59,10 +59,10 @@ docs/
     deploy.yml
 
 Notes
-	•	This guide is based on community-shared information.
-	•	Stable gameplay help is prioritized over temporary bugs or one-off issues.
-	•	Some strategies are player-tested and may change as the game evolves.
-	•	Reported codes and rewards should be treated as community-maintained information.
+	•	This guide is based on community-shared information
+	•	Stable gameplay help is prioritized over temporary bugs or one-off issues
+	•	Some strategies are player-tested and may change as the game evolves
+	•	Reported codes and rewards should be treated as community-maintained information
 
 Tech Stack
 	•	Docusaurus￼
