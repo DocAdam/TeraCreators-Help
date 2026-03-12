@@ -2,95 +2,42 @@
 title: Overview
 sidebar_position: 1
 ---
-# Havoc Hotel 3 - Help Guide
-## Using This Havoc Hotel 3 Help Guide
 
-Welcome to this **Havoc Hotel 3** help guide.
+# Havoc Hotel 3 Help Guide
 
-This guide turns scattered community explanations into simple, organized help content. It is meant to help players quickly find useful information without digging through long chat threads.
+This guide brings together useful community knowledge and turns it into clear, practical help content that can be shared with other players. It focuses on stable gameplay information, common questions, step-by-step instructions, and quick reference material.
 
-## What This Guide Includes
+## Using This Guide
 
-This guide is organized into a few simple section types:
+This guide organizes community-shared help content into practical sections so players can quickly find instructions, answers, and reference material.
 
-### Tips
-Use these for quick explanations about how a system works.
+### What each section is for
 
-Examples:
-- how prestige works
-- how AFK income works
-- how farming routes are commonly used
+- **Tips** explain systems and strategies.
+- **Tasks** provide step-by-step instructions.
+- **FAQ** answers common repeat questions.
+- **References** collects lookup information such as codes, rooms, and bosses.
+- **Terms** defines commonly used words and shorthand that appear throughout the guide.
 
-### Tasks
-Use these when you want step-by-step instructions.
+### What is excluded
 
-Examples:
-- managing weapon rarity listings
-- setting up a farming route
-- using rescues to improve income
+- Transitory issues
+- Bug reports
+- One-off complaints
+- Unverified edge-case claims that are not repeated elsewhere
 
-### FAQs
-Use these for common questions players ask repeatedly.
+## Quick Navigation
 
-Examples:
-- what prestige resets
-- whether event currency resets
-- how AFK income is calculated
+- New player: start with [FAQ](./faq)
+- Need steps: go to [Tasks](./tasks)
+- Need strategy: go to [Tips](./tips)
+- Need exact values or locations: use [References](./references)
+- Need definitions: check [Terms](./terms)
 
-### References
-Use these for lookup information.
-
-Examples:
-- reported codes
-- room and boss references
-- important terms and game shorthand
-
-## What This Guide Does Not Include
-
-This guide leaves out short-lived issues that are not useful as long-term help content.
-
-Excluded content includes:
-- temporary bugs
-- UI issues that may already be fixed
-- one-off player reports without stable value
-- transitory balance complaints
-- casual chat that does not explain a mechanic or process
-
-## How to Use This Guide
-
-1. Start with the **FAQs** if you are trying to understand a mechanic quickly.
-2. Check the **Tasks** if you want simple steps to follow.
-3. Use the **Tips** for strategy ideas and general explanations.
-4. Use the **References** when you need exact values, codes, or room details.
-
-## Important Notes
+## Notes About the Guide
 
 - This guide is based on community-shared information.
-- Some details may reflect player testing rather than official documentation.
-- Reported codes and strategies can change over time.
-- If something is uncertain or community-reported, it should be treated that way in the guide.
+- Some strategies are player-tested rather than official explanations.
+- Codes and rewards may change over time.
 
-## Suggested Reading Order
-
-If you are new to the game, this order should help:
-
-1. Understanding Prestige
-2. Understanding AFK Income
-3. Managing Weapon Rarity Listings
-4. Farming Money Efficiently
-5. Using Reported Codes
-
-## Scope of This Guide
-
-The goal is to make useful help content easier to scan, easier to reuse, and easier to maintain.
-
-It is not meant to be a full wiki. It is a practical guide focused on:
-- common questions
-- useful strategies
-- clear instructions
-- stable reference information
-
-## Metadata
-
-**Tags:** havoc hotel 3, overview, help guide, faq, tips, tasks, reference  
-**Entities:** Havoc Hotel 3
+[Example image: a simple guide index or menu mockup showing the page types—Tips, Tasks, FAQ, References, and Terms—with a short one-line description under each.]
