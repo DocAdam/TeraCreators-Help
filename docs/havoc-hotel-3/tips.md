@@ -29,7 +29,7 @@ The most repeated money advice is to use the AFK zone or build a killstreak and 
 This clip shows an example of Room 2 being used as part of a killstreak farming route.
 
 <video controls width="100%">
-  <source src="/video/havoc-hotel-3/farming/farming-room-2.mp4" type="video/mp4" />
+  <source src="/video/havoc-hotel-3/farming/farming-room-2-web.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
