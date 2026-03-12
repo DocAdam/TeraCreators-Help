@@ -1,5 +1,4 @@
-// @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+const {themes: prismThemes} = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -26,54 +25,52 @@ const config = {
   presets: [
     [
       'classic',
-      ({
+      {
         docs: {
           routeBasePath: '/',
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/DocAdam/TeraCreators-Help/tree/main/',
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'TeraCreators Help',
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Guides',
-          },
-          {
-            href: 'https://github.com/DocAdam/TeraCreators-Help',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      docs: {
-        sidebar: {
-          hideable: true,
+  themeConfig: {
+    navbar: {
+      title: 'TeraCreators Help',
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Guides',
         },
+        {
+          href: 'https://github.com/DocAdam/TeraCreators-Help',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    docs: {
+      sidebar: {
+        hideable: true,
       },
-      footer: {
-        style: 'dark',
-        links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} TeraCreators Help`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
+    },
+    footer: {
+      style: 'dark',
+      links: [],
+      copyright: `Copyright © ${new Date().getFullYear()} TeraCreators Help`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
 
-export default config;
+module.exports = config;

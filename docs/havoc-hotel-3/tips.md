@@ -1,3 +1,7 @@
+---
+title: Tips
+sidebar_position: 2
+---
 # Tips Page
 
 ## Farming Money Efficiently

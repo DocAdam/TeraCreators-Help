@@ -1,3 +1,7 @@
+---
+title: Overview
+sidebar_position: 1
+---
 # Havoc Hotel 3 - Help Guide
 ## Using This Havoc Hotel 3 Help Guide
 

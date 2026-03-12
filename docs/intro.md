@@ -6,9 +6,16 @@ slug: /
 
 # TeraCreators Help
 
-Community help content for TeraCreators games.
+Community-created help guides for TeraCreators games.
 
-## Guides
+## Current guides
 
-- [Havoc Hotel 3 Overview](./havoc-hotel-3-overview)
-- [Tips](./tips)
+- [Havoc Hotel 3 Overview](./havoc-hotel-3/overview)
+- [Tips](./havoc-hotel-3/tips)
+- [Tasks](./havoc-hotel-3/tasks)
+- [FAQ](./havoc-hotel-3/faq)
+- [Terms](./havoc-hotel-3/terms)
+
+## About this guide
+
+This site organizes helpful community knowledge into simple, readable guide pages.
