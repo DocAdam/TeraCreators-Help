@@ -5,11 +5,17 @@ slug: /
 description: Community-created help guides for TeraCreators games.
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # TeraCreators Help
 
 This site organizes community-shared game knowledge into clear, reusable guide pages.
 
 It focuses on stable gameplay help, repeated player guidance, and quick-reference information that is easier to browse than scattered chat messages.
+
+<p align="center">
+  <img src={useBaseUrl('/img/havoc-hotel-3/HH3-basic-cover.png')} alt="Havoc Hotel 3 cover image" width="420" />
+</p>
 
 ## Start Here
 
@@ -19,9 +25,9 @@ It focuses on stable gameplay help, repeated player guidance, and quick-referenc
 - [References](./havoc-hotel-3/references) for quick lookup information
 - [Terms](./havoc-hotel-3/terms) for definitions and shorthand
 
-## Current Guide
+## Havoc Hotel 3
 
-- [Havoc Hotel 3 Overview](./havoc-hotel-3/overview)
+- [Overview](./havoc-hotel-3/overview)
 - [Tips](./havoc-hotel-3/tips)
 - [Tasks](./havoc-hotel-3/tasks)
 - [FAQ](./havoc-hotel-3/faq)
