@@ -29,8 +29,48 @@ These codes were reported by the community. Some codes may no longer work.
 ### Notes
 
 - Bug-related code redemption issues were excluded from this guide
+- This section should be reviewed periodically as code status changes
 
-[Example image: code redemption screen showing where players enter a code and where the reward appears after redemption.]
+---
+
+## Quantity Shorthand Reference
+
+These are the reported shorthand values shown for large number notation in HH3.
+
+### Entries
+
+- `e3` → `K`
+- `e6` → `M`
+- `e9` → `B`
+- `e12` → `T`
+- `e15` → `P`
+- `e18` → `E`
+- `e21` → `EK`
+- `e24` → `EM`
+- `e27` → `EB`
+- `e30` → `ET`
+- `e33` → `EP`
+- `e36` → `EE`
+- `e39` → `EEK`
+- `e42` → `EEM`
+- `e45` → `EEB`
+- `e48` → `EET`
+- `e51` → `EEP`
+- `e54` → `X`
+
+### Important
+
+- These values are based on shared community or admin reference material
+- Keep the labels exactly as shown when using them as a lookup reference
+
+### Notes
+
+- This section works best as a quick reference near economy, rewards, or upgrade information
+- The shorter `K / M / B / T / P / E` values are the most useful for everyday reading
+
+![Quantity shorthand reference for Havoc Hotel 3](/img/havoc-hotel-3/quantity-shorthand.png)
+
+*Quantity shorthand used for large values in Havoc Hotel 3.*
 
 ---
 

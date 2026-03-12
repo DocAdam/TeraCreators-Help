@@ -100,6 +100,34 @@ Prestige gets easier over time because the benefits scale, but early prestige ru
 - Relock classes after prestige
 - Rebuild using your strongest practical loadout
 
+## Understanding Quantity Shorthand
+
+HH3 uses shorthand notation to display large Coin$ values in a shorter format.
+
+### Key points
+
+- `1,000` = `1K`
+- `1,000,000` = `1M`
+- `1,000,000,000` = `1B`
+- The notation continues upward by powers of `1,000`
+- Some displays also use exponent-style shorthand with `e` values
+
+### Quick reference
+
+- `K` = thousand
+- `M` = million
+- `B` = billion
+- `T` = trillion
+- `P` = quadrillion
+- `E` = quintillion
+
+### Notes
+
+- This notation is used to make very large Coin$ amounts easier to read
+- The extended `e` notation is useful when reading very large economy values, upgrades, or rewards
+
+[Example image: quantity shorthand chart showing K, M, B, T, P, E and the extended values.]
+
 ### Notes
 
 - This is strategy advice, not a formal official progression guide

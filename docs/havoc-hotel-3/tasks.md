@@ -23,11 +23,14 @@ Use listing and delisting to control which weapon rarities or booster rarities c
 - **List = inactive**
 - **Delist = active**
 - Once a class is opened, at least one rarity must remain active
+- Common rarity is added when the class is first opened
+- Higher rarities are added as you unlock them
 - The same system applies to booster rewards
 
 ### Notes
 
 - Example: if you only want Exotic rewards, Exotic should show **Delist** and lower rarities should show **List**
+- A practical setup for booster rewards is to leave the rarity you want showing **Delist** and set unwanted rarities to **List**
 
 [Example image: weapon or booster rarity menu showing one rarity marked Delist and others marked List, with the active and inactive states clearly visible.]
 
