@@ -4,7 +4,7 @@ const {themes: prismThemes} = require('prism-react-renderer');
 const config = {
   title: 'TeraCreators Help',
   tagline: 'Community help guides for TeraCreators games',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   url: 'https://docadam.github.io',
   baseUrl: '/TeraCreators-Help/',
