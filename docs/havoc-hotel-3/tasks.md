@@ -18,6 +18,10 @@ Use listing and delisting to control which weapon rarities or booster rarities c
 4. Change the rarities you do not want to **List** so they stop appearing.
 5. Keep at least one rarity active in any opened class or category.
 
+![Weapon rarity investment and list or delist controls](/img/havoc-hotel-3/weapons/hh3-weapons-rarity-invest-delist.jpg)
+
+*Weapon rarity menu showing soap investment and list or delist controls.*
+
 ### Important
 
 - **List = inactive**
@@ -32,7 +36,9 @@ Use listing and delisting to control which weapon rarities or booster rarities c
 - Example: if you only want Exotic rewards, Exotic should show **Delist** and lower rarities should show **List**
 - A practical setup for booster rewards is to leave the rarity you want showing **Delist** and set unwanted rarities to **List**
 
-[Example image: weapon or booster rarity menu showing one rarity marked Delist and others marked List, with the active and inactive states clearly visible.]
+![Weapons rewards with some rewards still locked](/img/havoc-hotel-3/weapons/hh3-weapons-rewards-locked.jpg)
+
+*Weapons rewards screen with some rewards still locked.*
 
 ---
 
@@ -57,8 +63,6 @@ This route is one of the most repeated recommendations for making money quickly.
 
 - This is one of the clearest repeated farming methods in the guide
 
-[Example image: room path or annotated minimap showing the buildup rooms first, then the target farming rooms.]
-
 ---
 
 ## Double Rescuing Hostages
@@ -81,7 +85,17 @@ You can repeat most rescues to increase your rescue total and take better advant
 
 - This is community-reported and should be labeled that way in final documentation
 
-[Example image: before-and-after screenshots of the rescue counter showing the count increasing beyond the normal total, such as 20/20 and then 35/20.]
+![Initial hostage rescue](/img/havoc-hotel-3/rescues/hh3-rescue-double-rescue-step-01-initial-rescue.jpg)
+
+*Initial hostage rescue.*
+
+![Accepting the random reward after rescue](/img/havoc-hotel-3/rescues/hh3-rescue-double-rescue-step-02-accept-reward.jpg)
+
+*Accepting the reward after the first rescue.*
+
+![Repeating the rescue after the reward clears](/img/havoc-hotel-3/rescues/hh3-rescue-double-rescue-step-03-repeat-rescue.jpg)
+
+*Rescuing the same hostage again after the reward clears.*
 
 ---
 
@@ -97,6 +111,10 @@ You can reduce unwanted loot pool clutter after prestiging by delaying some unlo
 4. Prestige after those unlocks are complete.
 5. After prestige, the classes relock, which helps keep the early loot pool cleaner again.
 
+![Prestige and crowns screen](/img/havoc-hotel-3/prestige/hh3-prestige-crowns-screen.jpg)
+
+*Prestige screen showing crowns and related progression.*
+
 ### Important
 
 - Invested soap stays invested
@@ -105,5 +123,3 @@ You can reduce unwanted loot pool clutter after prestiging by delaying some unlo
 ### Notes
 
 - This is a progression strategy based on player advice
-
-[Example image: weapon unlock page showing several classes still locked, paired with a prestige screen to illustrate the timing strategy.]
