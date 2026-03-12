@@ -14,8 +14,9 @@ Community-created help guides for TeraCreators games.
 - [Tips](./havoc-hotel-3/tips)
 - [Tasks](./havoc-hotel-3/tasks)
 - [FAQ](./havoc-hotel-3/faq)
+- [References](./havoc-hotel-3/references)
 - [Terms](./havoc-hotel-3/terms)
 
-## About this guide
+## About this site
 
-This site organizes helpful community knowledge into simple, readable guide pages.
+This site organizes community-shared knowledge into simple guide pages that are easier to browse and reuse.
