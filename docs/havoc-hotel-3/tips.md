@@ -20,7 +20,7 @@ The most repeated money advice is to either use the AFK zone or build a killstre
 ### Quick reference
 
 - Early game: rescues
-- Main farming route: **2 / 13 -> 25 or 29**
+- Main farming route: **2 / 13 → 25 or 29**
 - Alternate method: AFK zone
 
 ### Notes
