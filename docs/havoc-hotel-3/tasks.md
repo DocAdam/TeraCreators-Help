@@ -1,6 +1,7 @@
 ---
 title: Tasks
 sidebar_position: 3
+description: Step-by-step instructions for common Havoc Hotel 3 systems and strategies.
 ---
 
 # Tasks
@@ -21,12 +22,12 @@ Use listing and delisting to control which weapon rarities or booster rarities c
 
 - **List = inactive**
 - **Delist = active**
-- Once a class is opened, at least one rarity must remain active.
-- The same system applies to booster rewards.
+- Once a class is opened, at least one rarity must remain active
+- The same system applies to booster rewards
 
 ### Notes
 
-- Example: if you only want Exotic rewards, Exotic should show **Delist** and lower rarities should show **List**.
+- Example: if you only want Exotic rewards, Exotic should show **Delist** and lower rarities should show **List**
 
 [Example image: weapon or booster rarity menu showing one rarity marked Delist and others marked List, with the active and inactive states clearly visible.]
 
@@ -46,12 +47,12 @@ This route is one of the most repeated recommendations for making money quickly.
 
 ### Important
 
-- This works best if you can reliably survive to those rooms.
-- AFK lobby multipliers can make this route much stronger.
+- This works best if you can reliably survive to those rooms
+- AFK lobby multipliers can make this route much stronger
 
 ### Notes
 
-- This is one of the clearest repeated farming methods in the guide.
+- This is one of the clearest repeated farming methods in the guide
 
 [Example image: room path or annotated minimap showing the buildup rooms first, then the target farming rooms.]
 
@@ -70,12 +71,12 @@ You can repeat most rescues to increase your rescue total and take better advant
 
 ### Important
 
-- This reportedly works on **almost all** rescues, but not all of them.
-- Players report that this can increase the count up to **35/20** even though the guide count says **20** rescues total.
+- This reportedly works on **almost all** rescues, but not all of them
+- Players report that this can increase the count up to **35/20** even though the guide count says **20** rescues total
 
 ### Notes
 
-- This is community-reported and should be labeled that way in final documentation.
+- This is community-reported and should be labeled that way in final documentation
 
 [Example image: before-and-after screenshots of the rescue counter showing the count increasing beyond the normal total, such as 20/20 and then 35/20.]
 
@@ -95,11 +96,11 @@ You can reduce unwanted loot pool clutter after prestiging by delaying some unlo
 
 ### Important
 
-- Invested soap stays invested.
-- Relocking does not erase the soap already spent.
+- Invested soap stays invested
+- Relocking does not erase the soap already spent
 
 ### Notes
 
-- This is a progression strategy based on player advice.
+- This is a progression strategy based on player advice
 
 [Example image: weapon unlock page showing several classes still locked, paired with a prestige screen to illustrate the timing strategy.]

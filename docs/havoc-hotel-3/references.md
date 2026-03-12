@@ -1,6 +1,7 @@
 ---
 title: References
 sidebar_position: 5
+description: Quick-reference information for Havoc Hotel 3, including codes, boss rooms, rescue notes, and farming rooms.
 ---
 
 # References
@@ -22,12 +23,12 @@ These codes were reported by the community. Some codes may no longer work.
 
 ### Important
 
-- One message suggests a similar code was just a mistyped version of `507741`.
-- Codes should be treated as community-reported rather than officially maintained.
+- One message suggests a similar code was just a mistyped version of `507741`
+- Codes should be treated as community-reported rather than officially maintained
 
 ### Notes
 
-- Bug-related code redemption issues were excluded from this guide.
+- Bug-related code redemption issues were excluded from this guide
 
 [Example image: code redemption screen showing where players enter a code and where the reward appears after redemption.]
 
@@ -48,11 +49,11 @@ These room and boss pairings were shared as a simple lookup list.
 
 ### Important
 
-- This is a practical lookup list, not a full enemy guide.
+- This is a practical lookup list, not a full enemy guide
 
 ### Notes
 
-- Use this as a quick-reference page.
+- Use this as a quick-reference page
 
 [Example image: a boss room lineup image or a set of room screenshots, one for each boss room, with room numbers labeled.]
 
@@ -70,12 +71,12 @@ These rescue notes appeared useful enough to preserve as lookup information.
 
 ### Important
 
-- Not all rescue locations were fully listed in the guide.
-- Keep this page scoped to confirmed or repeated details only.
+- Not all rescue locations were fully listed in the guide
+- Keep this page scoped to confirmed or repeated details only
 
 ### Notes
 
-- Additional rescue locations may belong on a separate rescue guide if more complete data is gathered.
+- Additional rescue locations may belong on a separate rescue guide if more complete data is gathered
 
 [Example image: screenshot of the Room 6 toilet area with the stall door location marked for the hidden rescue.]
 
@@ -94,10 +95,10 @@ These rooms were repeatedly mentioned for progression and farming.
 
 ### Important
 
-- Best results depend on survivability and current upgrades.
+- Best results depend on survivability and current upgrades
 
 ### Notes
 
-- This page is intentionally short and focused on repeated advice.
+- This page is intentionally short and focused on repeated advice
 
 [Example image: simple room chart or cropped room thumbnails for 2, 13, 25, and 29 with short farming labels.]

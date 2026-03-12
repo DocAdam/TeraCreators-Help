@@ -1,6 +1,7 @@
 ---
 title: FAQ
 sidebar_position: 4
+description: Common questions and quick answers for Havoc Hotel 3.
 ---
 
 # FAQ
@@ -11,13 +12,13 @@ Prestige resets your coins, cash on hand, and power-up progression. Soap already
 
 ### Important
 
-- Invested soap stays invested.
-- Weapon classes relock after prestige.
-- Early prestige runs may feel weak at first.
+- Invested soap stays invested
+- Weapon classes relock after prestige
+- Early prestige runs may feel weak at first
 
 ### Notes
 
-- Community discussion also mentions that prestige scaling continues across many prestige levels.
+- Community discussion also mentions that prestige scaling continues across many prestige levels
 
 [Example image: prestige confirmation screen or stat summary screen showing retained investments versus reset progression.]
 
@@ -29,13 +30,13 @@ AFK income is based on how much money you currently have on hand. The more money
 
 ### Important
 
-- AFK income has a cap.
-- Your current money total affects the rate.
-- Coin booth upgrades affect the limit.
+- AFK income has a cap
+- Your current money total affects the rate
+- Coin booth upgrades affect the limit
 
 ### Notes
 
-- Reported cap values in chat appear to be community-reported, so avoid locking in a hard number unless you verify it elsewhere.
+- Reported cap values in chat appear to be community-reported, so avoid locking in a hard number unless you verify it elsewhere
 
 [Example image: AFK booth or AFK earnings area with visible payout numbers, plus an upgrade panel for coin reward booth upgrades.]
 
@@ -49,11 +50,11 @@ Delisting removes that rarity from your loot pool. Listing adds it back. In prac
 
 - **Delist = active**
 - **List = inactive**
-- At least one rarity must remain active in an opened category.
+- At least one rarity must remain active in an opened category
 
 ### Notes
 
-- This applies to both weapon classes and booster rewards.
+- This applies to both weapon classes and booster rewards
 
 [Example image: close-up screenshot of the loot pool menu with the List and Delist buttons labeled or highlighted.]
 
@@ -65,12 +66,12 @@ The reported total is **20** rescues. However, players also report that double r
 
 ### Important
 
-- The base total is still treated as **20**.
-- Double rescuing changes the effective count.
+- The base total is still treated as **20**
+- Double rescuing changes the effective count
 
 ### Notes
 
-- This distinction is useful so players do not confuse the official total with the duplicated total.
+- This distinction is useful so players do not confuse the official total with the duplicated total
 
 [Example image: rescue tracker or HUD counter showing the standard rescue total and an over-cap example.]
 
@@ -82,11 +83,11 @@ The most common advice is to start with rescues, daily rewards, and any seasonal
 
 ### Important
 
-- Rescues are strong early because their value scales.
-- Later-room farming becomes better once survival is reliable.
+- Rescues are strong early because their value scales
+- Later-room farming becomes better once survival is reliable
 
 ### Notes
 
-- This answer combines repeated early-game guidance and removes overlapping phrasing.
+- This answer combines repeated early-game guidance and removes overlapping phrasing
 
 [Example image: early-game lobby or reward screen showing daily rewards, rescue-related progress, or beginner upgrade options.]

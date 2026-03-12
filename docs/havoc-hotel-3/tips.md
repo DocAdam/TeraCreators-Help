@@ -1,21 +1,22 @@
 ---
 title: Tips
 sidebar_position: 2
+description: Strategy tips and player-tested guidance for Havoc Hotel 3.
 ---
 
 # Tips
 
 ## Farming Money Efficiently
 
-The most repeated money advice is to either use the AFK zone or build a killstreak and farm later rooms.
+The most repeated money advice is to use the AFK zone or build a killstreak and farm later rooms.
 
 ### Key points
 
-- Spend 1 diamond on the **unbreakable killstreak** booster.
-- Build your killstreak in **rooms 2 and 13**.
-- Farm the **samurai boss in room 25** or the **green aliens in room 29**.
-- If you are in a lobby with AFK players, their multiplier can boost your farming.
-- If you are still early in progression, rescues are a strong starting source of money.
+- Spend 1 diamond on the **unbreakable killstreak** booster
+- Build your killstreak in **rooms 2 and 13**
+- Farm the **samurai boss in room 25** or the **green aliens in room 29**
+- If you are in a lobby with AFK players, their multiplier can boost your farming
+- If you are still early in progression, rescues are a strong starting source of money
 
 ### Quick reference
 
@@ -25,8 +26,8 @@ The most repeated money advice is to either use the AFK zone or build a killstre
 
 ### Notes
 
-- This is community strategy guidance.
-- Farming routes depend on whether you can consistently survive to the later rooms.
+- This is community strategy guidance
+- Farming routes depend on whether you can consistently survive to the later rooms
 
 [Example image: map or room path graphic highlighting rooms 2, 13, 25, and 29, with arrows showing the recommended farming route.]
 
@@ -38,9 +39,9 @@ Rescues are useful because they build their own multiplier and can help newer pl
 
 ### Key points
 
-- Each rescue increases rescue value.
-- Rescues are especially helpful early when your weapon progression is limited.
-- Daily rewards and seasonal currencies can also help fill gaps while progressing.
+- Each rescue increases rescue value
+- Rescues are especially helpful early when your weapon progression is limited
+- Daily rewards and seasonal currencies can also help fill gaps while progressing
 
 ### Quick reference
 
@@ -49,7 +50,7 @@ Rescues are useful because they build their own multiplier and can help newer pl
 
 ### Notes
 
-- Rescue-based progression is mentioned more than once as a good early path.
+- Rescue-based progression is mentioned more than once as a good early path
 
 [Example image: rescue reward screen or HUD view showing the rescue multiplier increasing after multiple rescues.]
 
@@ -66,8 +67,8 @@ Players in the AFK zone can increase the value of your farming runs.
   - 2 players = **x2.5**
   - 3 players = **x3**
   - 4 players = **x3.5**
-- The AFK multiplier stacks with your killstreak multiplier.
-- Example: a **x10** killstreak with **1 AFK player** becomes an effective **x20** multiplier.
+- The AFK multiplier stacks with your killstreak multiplier
+- Example: a **x10** killstreak with **1 AFK player** becomes an effective **x20** multiplier
 
 ### Quick reference
 
@@ -76,7 +77,7 @@ Players in the AFK zone can increase the value of your farming runs.
 
 ### Notes
 
-- These values are community-reported.
+- These values are community-reported
 
 [Example image: AFK zone screenshot with multiple players present, plus a visible multiplier or earnings indicator if available.]
 
@@ -88,10 +89,10 @@ Prestige gets easier over time because the benefits scale, but early prestige ru
 
 ### Key points
 
-- Soap already invested in weapon classes stays invested.
-- Weapon classes lock again after prestige, so timing matters.
-- A common strategy is to delay opening less important weapon classes until just before prestiging.
-- After prestiging, some players recommend using strong mythic weapons such as SMGs until better tools are unlocked again.
+- Soap already invested in weapon classes stays invested
+- Weapon classes lock again after prestige, so timing matters
+- A common strategy is to delay opening less important weapon classes until just before prestiging
+- After prestiging, some players recommend using strong mythic weapons such as SMGs until better tools are unlocked again
 
 ### Quick reference
 
@@ -101,6 +102,6 @@ Prestige gets easier over time because the benefits scale, but early prestige ru
 
 ### Notes
 
-- This is strategy advice, not a formal official progression guide.
+- This is strategy advice, not a formal official progression guide
 
 [Example image: prestige screen showing what resets and what remains, or a side-by-side image of locked weapon classes after prestige.]
