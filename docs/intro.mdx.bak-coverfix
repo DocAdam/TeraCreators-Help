@@ -5,7 +5,7 @@ slug: /
 description: Community-created help guides for TeraCreators games.
 ---
 
-import HH3Cover from '@site/static/img/havoc-hotel-3/hh3-basic-cover.png';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # TeraCreators Help
 
@@ -15,7 +15,7 @@ It focuses on stable gameplay help, repeated player guidance, and quick-referenc
 
 <p align="center">
   <img
-    src={HH3Cover}
+    src={useBaseUrl('/img/havoc-hotel-3/hh3-basic-cover.png')}
     alt="Havoc Hotel 3 cover image"
     width="720"
   />
@@ -25,29 +25,29 @@ It focuses on stable gameplay help, repeated player guidance, and quick-referenc
 
 ## Start Here
 
-- [Rescues](./havoc-hotel-3/rescues) for hostage locations and duplicate rescue steps
 - [FAQ](./havoc-hotel-3/faq) for common questions
 - [Tasks](./havoc-hotel-3/tasks) for step-by-step instructions
+- [Rescues](./havoc-hotel-3/rescues) for hostage locations and duplicate rescue steps
 - [Tips](./havoc-hotel-3/tips) for strategy guidance
 - [References](./havoc-hotel-3/references) for quick lookup information
 - [Terms](./havoc-hotel-3/terms) for definitions and shorthand
 
 ## Havoc Hotel 3
 
-- [Rescues](./havoc-hotel-3/rescues)
 - [Overview](./havoc-hotel-3/overview)
 - [Tips](./havoc-hotel-3/tips)
 - [Tasks](./havoc-hotel-3/tasks)
 - [FAQ](./havoc-hotel-3/faq)
 - [References](./havoc-hotel-3/references)
+- [Rescues](./havoc-hotel-3/rescues)
 - [Terms](./havoc-hotel-3/terms)
 
 ## How the Content Is Organized
 
-- **Rescues** collects hostage locations, duplicate rescue steps, and rescue-specific notes
 - **Overview** explains what the guide covers and how to use it
 - **Tips** focuses on strategy and practical advice
 - **Tasks** turns repeated guidance into clear steps
+- **Rescues** collects hostage locations, duplicate rescue steps, and rescue-specific notes
 - **FAQ** answers common repeat questions
 - **References** collects lookup information such as rooms, codes, and boss notes
 - **Terms** defines commonly used game language and shorthand
