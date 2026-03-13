@@ -13,9 +13,15 @@ This site organizes community-shared game knowledge into clear, reusable guide p
 
 It focuses on stable gameplay help, repeated player guidance, and quick-reference information that is easier to browse than scattered chat messages.
 
-![Havoc Hotel 3 cover image](/img/havoc-hotel-3/hh3-basic-cover.png)
+<p align="center">
+  <img
+    src={useBaseUrl('/img/havoc-hotel-3/hh3-basic-cover.png')}
+    alt="Havoc Hotel 3 cover image"
+    width="720"
+  />
+</p>
 
-*Havoc Hotel 3 cover.*
+<p align="center"><em>Havoc Hotel 3 guide hub</em></p>
 
 ## Start Here
 
