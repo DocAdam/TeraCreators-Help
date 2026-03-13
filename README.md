@@ -69,8 +69,8 @@ npm run start
 ```
 
 This usually starts the site at one of these URLs:
-	•	http://localhost:3000/TeraCreators-Help/
-	•	http://localhost:3000/
+- http://localhost:3000/TeraCreators-Help/
+- http://localhost:3000/
 
 ## Build
 
