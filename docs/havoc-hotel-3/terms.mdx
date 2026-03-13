@@ -1,0 +1,26 @@
+---
+title: Terms
+sidebar_position: 7
+description: Definitions for common Havoc Hotel 3 terms and community shorthand.
+---
+
+import {hh3Terms} from '@site/src/data/hh3Terms';
+
+# Terms
+
+These are common terms and shorthand used throughout the guide.
+
+{Object.entries(hh3Terms)
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([term, definition]) => (
+    <div key={term} style={{marginBottom: '1.25rem'}}>
+      <h2>{term}</h2>
+      <p>{definition}</p>
+    </div>
+  ))}
+
+## Notes
+
+- Some terms are general game terms
+- Some terms are specific to how the community talks about Havoc Hotel 3
+- Add new entries to `src/data/hh3Terms.ts`
