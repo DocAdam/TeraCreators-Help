@@ -89,5 +89,3 @@ The most common advice is to start with rescues, daily rewards, and any seasonal
 ### Notes
 
 - This answer combines repeated early-game guidance and removes overlapping phrasing
-
-[Example image: early-game lobby or reward screen showing daily rewards, rescue-related progress, or beginner upgrade options.]

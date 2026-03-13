@@ -42,5 +42,3 @@ This guide organizes community-shared help content into practical sections so pl
 - This guide is based on community-shared information
 - Some strategies are player-tested rather than official explanations
 - Codes and rewards may change over time
-
-[Example image: a simple guide index or menu mockup showing the page types—Tips, Tasks, FAQ, References, and Terms—with a short one-line description under each.]

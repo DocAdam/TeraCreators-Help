@@ -69,5 +69,3 @@ A booster that protects your killstreak so it does not reset as easily during fa
 - Some terms are general game terms
 - Some terms are specific to how the community talks about Havoc Hotel 3
 - Add new entries here whenever a repeated term shows up in multiple sections
-
-[Example image: glossary-style labeled screenshot showing the AFK zone, a prestige screen, a weapon rarity menu, and a rescue counter with callouts for the matching terms.]

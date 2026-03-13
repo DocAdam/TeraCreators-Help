@@ -15,16 +15,23 @@ These codes were reported by the community. Some codes may no longer work.
 - `507741` — **5000 Soap**
 - `061286` — **2000 Soap** | Room 8
 - `040624` — **Swarmstrike** | Room 15
-- ~~`111025`~~ — reported as not working | Room 5
 - `010110` — **100 Diamonds** | Room 16
 - `791277` — **$300M** | Room 30
 - `170223` — **1000 Soap** | Room 12
 - `180120` — **$100M** | Room 21
 
+![Secret panel at room start](/img/havoc-hotel-3/codes/hh3-codes-secret-panel-room-start.jpg)
+
+*Secret panel interaction at room start.*
+
 ### Important
 
 - One message suggests a similar code was just a mistyped version of `507741`
 - Codes should be treated as community-reported rather than officially maintained
+
+![Code entry keypad](/img/havoc-hotel-3/codes/hh3-codes-entry-keypad.jpg)
+
+*Code entry keypad used to enter secret codes.*
 
 ### Notes
 
@@ -74,11 +81,25 @@ These are the reported shorthand values shown for large number notation in HH3.
 
 ---
 
-## Boss Rooms
+## Enemy Rewards Menu
+
+This menu shows the reward listings for enemies.
+
+![Enemies rewards menu](/img/havoc-hotel-3/menus/hh3-enemies-rewards-menu.jpg)
+
+*Enemy rewards menu.*
+
+---
+
+## Boss Rewards Menu
+
+![Boss rewards menu](/img/havoc-hotel-3/menus/hh3-bosses-rewards-menu.jpg)
+
+*Boss rewards menu.*
 
 These room and boss pairings were shared as a simple lookup list.
 
-### Entries
+### Boss Locations
 
 - **Room 5** — bear with grenade launcher
 - **Room 10** — bone enemy with anvil rocket launcher
@@ -91,54 +112,12 @@ These room and boss pairings were shared as a simple lookup list.
 
 - This is a practical lookup list, not a full enemy guide
 
-### Notes
-
-- Use this as a quick-reference page
-
-[Example image: a boss room lineup image or a set of room screenshots, one for each boss room, with room numbers labeled.]
-
 ---
 
-## Rescue Notes
+## Upgrade Menu
 
-These rescue notes appeared useful enough to preserve as lookup information.
+This menu shows upgrade categories related to hostages, max coins by resting, and coin rewards.
 
-### Entries
+![Hostages, resting, and coin reward upgrades menu](/img/havoc-hotel-3/menus/hh3-upgrades-hostages-resting-coin-reward-menu.jpg)
 
-- **Total rescues:** 20
-- **Double rescue total:** can reach 35/20
-- **Room 6 note:** one rescue is described as harder to find and located near the toilets, on the inside of a stall door
-
-### Important
-
-- Not all rescue locations were fully listed in the guide
-- Keep this page scoped to confirmed or repeated details only
-
-### Notes
-
-- Additional rescue locations may belong on a separate rescue guide if more complete data is gathered
-
-[Example image: screenshot of the Room 6 toilet area with the stall door location marked for the hidden rescue.]
-
----
-
-## Common Farming Rooms
-
-These rooms were repeatedly mentioned for progression and farming.
-
-### Entries
-
-- **Room 2** — build killstreak
-- **Room 13** — build killstreak
-- **Room 25** — samurai boss farming
-- **Room 29** — green alien farming
-
-### Important
-
-- Best results depend on survivability and current upgrades
-
-### Notes
-
-- This page is intentionally short and focused on repeated advice
-
-[Example image: simple room chart or cropped room thumbnails for 2, 13, 25, and 29 with short farming labels.]
+*Upgrade menu showing hostages, max coins by resting, and coin reward options.*
