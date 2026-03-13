@@ -60,35 +60,41 @@ Install dependencies from the project root:
 
 ```bash
 npm install
+```
 
 Start the local development server from the project root:
 
+```
 npm run start
+```
 
 This usually starts the site at one of these URLs:
 	•	http://localhost:3000/TeraCreators-Help/
 	•	http://localhost:3000/
 
-Build
+## Build
 
 Create a production build from the project root:
 
+```
 npm run build
+```
 
 This generates the static site in the build directory.
 
-Deployment
+## Deployment
 
 This site is deployed with GitHub Pages using GitHub Actions.
 
 When changes are pushed to the main branch, GitHub Actions builds and deploys the site automatically.
 
-Live Site
+## Live Site
 
-https://docadam.github.io/TeraCreators-Help/
+https://docadam.github.io/TeraCreators-Help/￼
 
-Project Structure
+## Project Structure
 
+```
 docs/
   intro.md
   havoc-hotel-3/
@@ -103,26 +109,26 @@ docs/
 .github/
   workflows/
     deploy.yml
+```
 
-Notes
-	•	This guide is based on community-shared information
-	•	Content is compiled from messages and reorganized into more usable documentation
-	•	Stable gameplay help is prioritized over temporary bugs or one-off issues
-	•	Some strategies are player-tested and may change as the game evolves
-	•	Reported codes and rewards should be treated as community-maintained information
+### Notes
 
-Tech Stack
-	•	Docusaurus
-	•	GitHub Pages
-	•	GitHub Actions
+- This guide is based on community-shared information
+- Content is compiled from messages and reorganized into more usable documentation
+- Stable gameplay help is prioritized over temporary bugs or one-off issues
+- Some strategies are player-tested and may change as the game evolves
+- Reported codes and rewards should be treated as community-maintained information
 
-Then run this from your project root:
+### Tech Stack
+- Docusaurus
+- GitHub Pages
+- GitHub Actions
+
+Then run these commands from your project root:
 
 ```bash
 npm run build
-
-If the build succeeds, commit and push:
-
 git add README.md
 git commit -m "Update README with community-sourced project description"
 git push
+```
