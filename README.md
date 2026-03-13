@@ -11,6 +11,8 @@ The site is currently focused on **Havoc Hotel 3** and organizes stable communit
 - References
 - Terms
 
+[Access the help](https://docadam.github.io/TeraCreators-Help/)
+
 ## Local Development
 
 Install dependencies:
