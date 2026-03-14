@@ -5,74 +5,10 @@ description: Strategy tips and player-tested guidance for Havoc Hotel 3.
 ---
 
 import Term from '@site/src/components/Term';
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Tips
-
-## Understanding Prestige and Prestiging
-
-<Term name="Prestige">Prestiging</Term> is a long-term progression reset that trades short-term power for stronger future runs.
-
-### What prestige resets
-
-When you prestige, these reset:
-
-- Coins
-- Cash on hand
-- Power-ups
-- Weapon class unlock access
-
-### What prestige keeps
-
-These do **not** reset:
-
-- All <Term name="Soap">soap</Term> already invested in weapon classes
-- Your long-term prestige count and its scaling bonuses
-
-Even though weapon classes lock again after prestige, the <Term name="Soap">soap</Term> you already invested stays invested. You do not lose the upgrade spending itself—you just need to unlock access to those classes again.
-
-### Main benefits of prestiging
-
-Each prestige improves your long-term progression in several ways:
-
-- **Higher starting <Term name="Killstreak">killstreak</Term> multiplier**
-  - Starts at **x1.0**
-  - Increases by **0.1 per prestige**
-  - Caps at **x4.6**
-
-- **Higher <Term name="Rescue">rescue</Term> value**
-  - Rescue rewards are multiplied as prestige increases
-  - Exact scaling values still need confirmation
-
-- **Higher <Term name="Soap">soap</Term> drop rate**
-
-- **More starting diamonds**
-  - You get **1 standard diamond + 1 additional diamond per prestige**
-  - Example: at **36 prestige**, a new run starts with **37 diamonds**
-
-![Prestige and crowns screen](/img/havoc-hotel-3/prestige/hh3-prestige-crowns-screen.jpg)
-
-*Prestige screen showing crowns and prestige-related progression.*
-
-### Why players prestige
-
-The main reason to prestige is to make future runs stronger and faster to rebuild. Early prestige runs can feel weaker because classes relock and short-term resources reset, but over time the scaling bonuses make progression easier.
-
-### Common prestige strategy
-
-1. Use only the weapon classes you actually want during the current prestige cycle.
-2. Delay opening less important weapon classes until just before prestiging.
-3. Prestige after those final unlocks are done.
-4. Rebuild using your strongest practical loadout, often including strong <Term name="Mythic">mythic</Term> weapons if available.
-
-### Quick reference
-
-- **Resets:** coins, cash on hand, power-ups, weapon unlock access
-- **Keeps:** invested <Term name="Soap">soap</Term>
-- **Improves:** starting <Term name="Killstreak">killstreak</Term> multiplier, <Term name="Rescue">rescue</Term> value, <Term name="Soap">soap</Term> drops, starting diamonds
-- **Tradeoff:** weaker short-term reset, stronger long-term progression
-
----
 
 ## Farming Money Efficiently
 
@@ -114,6 +50,27 @@ This clip shows an example of Room 2 being used as part of a <Term name="Killstr
 
 ---
 
+## Using Rescue Multipliers
+
+<Term name="Rescue">Rescues</Term> are useful because they build their own multiplier and can help newer players progress faster.
+
+### Key points
+
+- Each rescue increases rescue value
+- Rescues are especially helpful early when your weapon progression is limited
+- Daily rewards and seasonal currencies can also help fill gaps while progressing
+
+### Quick reference
+
+- Best early use: build money while unlocking better weapons
+- Good pairing: rescues plus later-room farming
+
+### See also
+
+- [Rescues: hostage locations and duplicate rescue method](./rescues)
+
+---
+
 ## Using AFK Multipliers for Farming
 
 Players in the <Term name="AFK zone">AFK zone</Term> can increase the value of your <Term name="Farming">farming</Term> <Term name="Run">runs</Term>.
@@ -147,26 +104,22 @@ Players in the <Term name="AFK zone">AFK zone</Term> can increase the value of y
 
 ---
 
-## Using Rescue Multipliers
+## Progressing After Prestige
 
-<Term name="Rescue">Rescues</Term> are useful because they build their own multiplier and can help newer players progress faster.
+<Term name="Prestige">Prestige</Term> gets easier over time because the benefits scale, but early prestige <Term name="Run">runs</Term> can feel weak.
 
 ### Key points
 
-- Each rescue increases rescue value
-- Rescues are especially helpful early when your weapon progression is limited
-- Daily rewards and seasonal currencies can also help fill gaps while progressing
+- <Term name="Soap">Soap</Term> already invested in weapon classes stays invested
+- Weapon classes lock again after prestige, so timing matters
+- A common strategy is to delay opening less important weapon classes until just before prestiging
+- After prestiging, some players recommend using strong <Term name="Mythic">mythic</Term> weapons such as SMGs until better tools are unlocked again
 
 ### Quick reference
 
-- Best early use: build money while unlocking better weapons
-- Good pairing: rescues plus later-room farming
-
-### See also
-
-- [Rescues: hostage locations and duplicate rescue method](./rescues)
-
----
+- Keep investments
+- Relock classes after prestige
+- Rebuild using your strongest practical loadout
 
 ## Understanding Quantity Shorthand
 
