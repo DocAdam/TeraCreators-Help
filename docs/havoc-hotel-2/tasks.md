@@ -24,7 +24,7 @@ If you clear a room and cannot figure out how to pick up the weapon reward, use 
 
 ### Notes
 
-- [Example image: reward pickup after clearing a room, with the correct interaction point highlighted]
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.
 
 ---
 
@@ -44,4 +44,4 @@ To submit your escape time or leaderboard result, use the leaderboard submission
 
 ### Notes
 
-- [Example image: leaderboard submission channel and a sample valid submission]
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.

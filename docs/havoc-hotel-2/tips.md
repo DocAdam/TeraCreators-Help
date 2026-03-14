@@ -31,7 +31,7 @@ HH2 does appear to have secret codes, but community messages show some confusion
 - Some players later said some codes had stopped working
 - Swarmstrike appears to be treated like a limited-use reward item in community discussion
 
-[Example image: code-entry screen before Room 1, showing where players enter secret codes]
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.
 
 ---
 

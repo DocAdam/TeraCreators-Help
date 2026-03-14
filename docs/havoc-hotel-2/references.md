@@ -24,7 +24,7 @@ These are the HH2 codes that were repeatedly shared in the resource.
 
 ### Notes
 
-- [Example image: code-entry screen before Room 1, showing where players enter secret codes]
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.
 
 ---
 
@@ -55,7 +55,7 @@ Community replies provided a rough breakdown of max levels for several HH2 upgra
 
 ### Notes
 
-- [Example image: power-up and crown upgrade menus with maxed categories shown]
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.
 
 ---
 

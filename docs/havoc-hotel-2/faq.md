@@ -22,7 +22,8 @@ It resets progression in ways that raise prices again, but the shared discussion
 ### Notes
 
 - If you want a fully verified prestige breakdown, this section needs either direct in-game testing or a developer-confirmed source
-- [Example image: prestige confirmation screen with the reset warning text]
+
+> Have a screenshot that would improve this section? Submit a GitHub change request and include the image plus a short caption describing what players should see.
 
 ---
 
