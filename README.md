@@ -198,7 +198,7 @@ When changes are pushed to the main branch, GitHub Actions builds and deploys th
 
 ## Live Site
 
-https://docadam.github.io/TeraCreators-Help/￼
+[https://docadam.github.io/TeraCreators-Help/](https://docadam.github.io/TeraCreators-Help/)
 
 ### Notes
 
