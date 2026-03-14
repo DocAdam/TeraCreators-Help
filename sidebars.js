@@ -3,7 +3,7 @@ module.exports = {
     'intro',
     {
       type: 'category',
-      label: 'Havoc Hotel 3',
+      label: '🏨 Havoc Hotel 3',
       items: [
         'havoc-hotel-3/overview',
         'havoc-hotel-3/tips',
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Havoc Hotel 2',
+      label: '🏨 Havoc Hotel 2',
       items: [
         'havoc-hotel-2/overview',
         'havoc-hotel-2/tips',
@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Havoc Hotel 1',
+      label: '🏨 Havoc Hotel 1',
       items: [
         'havoc-hotel-1/overview',
         'havoc-hotel-1/tips',
@@ -39,16 +39,27 @@ module.exports = {
       ],
     },
     {
-  type: 'category',
-  label: 'Raptor Heist',
-  items: [
-    'raptor/overview',
-    'raptor/tips',
-    'raptor/tasks',
-    'raptor/faq',
-    'raptor/references',
-    'raptor/terms',
-  ],
-},
+      type: 'category',
+      label: '🐉 DnD Zombie Dragon Adv.',
+      items: [
+        'dnd-zombie-dragon-adventure/overview',
+        'dnd-zombie-dragon-adventure/tips',
+        'dnd-zombie-dragon-adventure/tasks',
+        'dnd-zombie-dragon-adventure/references',
+        'dnd-zombie-dragon-adventure/terms',
+      ],
+    },
+    {
+      type: 'category',
+      label: '🦖 Raptor Heist',
+      items: [
+        'raptor/overview',
+        'raptor/tips',
+        'raptor/tasks',
+        'raptor/faq',
+        'raptor/references',
+        'raptor/terms',
+      ],
+    },
   ],
 };

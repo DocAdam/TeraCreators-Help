@@ -13,6 +13,7 @@ The site is currently organized around these game sections:
 - Havoc Hotel 3
 - Havoc Hotel 2
 - Havoc Hotel 1
+- DnD Zombie Dragon Adventure
 - Raptor Heist
 
 Each game section is broken into practical documentation pages such as:
@@ -94,6 +95,12 @@ The current sidebar layout is:
   - FAQ
   - References
   - Terms
+- DnD Zombie Dragon Adventure
+  - Overview
+  - Tips
+  - Tasks
+  - References
+  - Terms
 - Raptor Heist
   - Overview
   - Tips
@@ -106,7 +113,7 @@ The current sidebar layout is:
 
 ```text
 docs/
-  intro.md
+  intro.mdx
   havoc-hotel-3/
     overview.md
     tips.md
@@ -129,6 +136,12 @@ docs/
     faq.md
     references.md
     terms.md
+  dnd-zombie-dragon-adventure/
+    overview.md
+    tips.md
+    tasks.md
+    references.md
+    terms.md
   raptor/
     overview.md
     tips.md
@@ -142,6 +155,7 @@ static/
     havoc-hotel-3/
     havoc-hotel-2/
     havoc-hotel-1/
+    dnd-zombie-dragon-adventure/
     raptor/
 
 .github/
