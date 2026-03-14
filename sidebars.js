@@ -27,6 +27,18 @@ module.exports = {
       ],
     },
     {
+      type: 'category',
+      label: 'Havoc Hotel 1',
+      items: [
+        'havoc-hotel-1/overview',
+        'havoc-hotel-1/tips',
+        'havoc-hotel-1/tasks',
+        'havoc-hotel-1/faq',
+        'havoc-hotel-1/references',
+        'havoc-hotel-1/terms',
+      ],
+    },
+    {
   type: 'category',
   label: 'Raptor Heist',
   items: [
