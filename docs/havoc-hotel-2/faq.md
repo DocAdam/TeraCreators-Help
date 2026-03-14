@@ -2,9 +2,10 @@
 title: FAQ
 sidebar_position: 4
 description: Common questions and quick answers for Havoc Hotel 2.
+hide_title: true
 ---
 
-# FAQ
+# Havoc Hotel 2 FAQ
 
 ## What does prestige do in HH2?
 

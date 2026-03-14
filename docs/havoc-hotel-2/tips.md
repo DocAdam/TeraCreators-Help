@@ -2,9 +2,10 @@
 title: Tips
 sidebar_position: 2
 description: Practical Havoc Hotel 2 tips based on repeated community guidance.
+hide_title: true
 ---
 
-# Tips
+# Havoc Hotel 2 Tips
 
 ## Understanding HH2 Codes
 

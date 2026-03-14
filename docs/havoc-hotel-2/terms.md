@@ -2,9 +2,10 @@
 title: Terms
 sidebar_position: 6
 description: Definitions for common Havoc Hotel 2 terms and repeated community wording.
+hide_title: true
 ---
 
-# Terms
+# Havoc Hotel 2 Terms
 
 These are common terms and repeated phrases that show up in HH2 help discussions.
 

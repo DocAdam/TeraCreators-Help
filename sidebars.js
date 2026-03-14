@@ -26,5 +26,17 @@ module.exports = {
         'havoc-hotel-2/terms',
       ],
     },
+    {
+  type: 'category',
+  label: 'Raptor Heist',
+  items: [
+    'raptor/overview',
+    'raptor/tips',
+    'raptor/tasks',
+    'raptor/faq',
+    'raptor/references',
+    'raptor/terms',
+  ],
+},
   ],
 };

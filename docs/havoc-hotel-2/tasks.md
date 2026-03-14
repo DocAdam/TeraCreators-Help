@@ -2,9 +2,10 @@
 title: Tasks
 sidebar_position: 3
 description: Step-by-step instructions for common Havoc Hotel 2 actions.
+hide_title: true
 ---
 
-# Tasks
+# Havoc Hotel 2 Tasks
 
 ## Claiming Room-Clear Weapons
 

@@ -2,9 +2,10 @@
 title: References
 sidebar_position: 5
 description: Quick-reference information for Havoc Hotel 2, including reported codes, upgrade values, and unresolved topics.
+hide_title: true
 ---
 
-# References
+# Havoc Hotel 2 References
 
 ## Using Reported Codes
 
