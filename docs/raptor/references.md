@@ -1,8 +1,28 @@
 ---
 title: References
 sidebar_position: 5
-description: Quick-reference Raptor Heist milestones, systems, and community guidance.
+description: Quick-reference Raptor Codes, Heist milestones, systems, and community guidance.
 hide_title: true
+---
+
+## Reported Codes
+
+These codes were reported by the community.
+
+* `639520`: **20 Diamonds💎**
+* `185307`: **100 Diamonds💎**
+* `471936`: **200 Diamonds💎**
+* `703194`: **350 Diamonds💎**
+* `560183`: **100 Million💰**
+* `892451`: **300 Million💰**
+* `724695`: **500 Million💰**
+* `938274`: **SwarmStrike**
+
+Important limits:
+- older code reports may be outdated
+
+![Raptor Heist codes screen](/img/raptor/codes/raptor-codes-screen-01.png)
+
 ---
 
 # Raptor Heist References
@@ -60,20 +80,6 @@ The two most consistently referenced reward systems were:
 These were repeatedly suggested as a practical source of diamonds, especially for newer or weaker players trying to improve their egg setup.
 
 ![Raptor Heist daily rewards screen](/img/raptor/menus/raptor-daily-rewards-screen-01.jpg)
-
----
-
-## Community Notes on Codes
-
-The source repeatedly referred players to a codes channel or code-related rewards, especially for progression help.
-
-Important limits:
-
-- this captured source does **not** provide a clean full code list
-- older code reports may be outdated
-- some reward or claim issues mentioned in discussion may have been temporary
-
-![Raptor Heist codes screen](/img/raptor/codes/raptor-codes-screen-01.png)
 
 ---
 
